@@ -9,3 +9,6 @@ sites/site*/public/theme/
 textpattern/
 HISTORY.txt
 README.txt
+
+#Marking File-2 to ignore from tracking changes
+#File-2.txt - removed from ignore
